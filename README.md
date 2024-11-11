@@ -49,7 +49,7 @@ This command creates a copy of `.env.example` and names it `.env`, allowing you 
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
 │                         generated with `pip freeze > requirements.txt`
 │
-└── src                         <- Source code for use in this project.
+└── src                <- Source code for use in this project.
     │
     ├── __init__.py             <- Makes src a Python module
     │
