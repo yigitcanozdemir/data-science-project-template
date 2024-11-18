@@ -70,7 +70,8 @@ This command creates a copy of `.env.example` and names it `.env`, allowing you 
     │   └── __init__.py
     │
     └── utility
-```     └── plot_settings.py    <- My rcParams plot styling settings
+        └── plot_settings.py    <- My rcParams plot styling settings
+```
 
 --------
 
